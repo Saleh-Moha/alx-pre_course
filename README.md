@@ -1,1 +1,1 @@
-# hi this saleh a student of alx SE
+# this my first readme
